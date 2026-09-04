@@ -114,10 +114,6 @@ Lower MAE, MSE, and RMSE indicate smaller prediction errors, while a higher R² 
 * `CO2_emissions.csv` – Dataset
 * `README.md` – Assignment documentation
 
-## 🔗 Google Colab
-
-[Open Google Colab Notebook](https://colab.research.google.com/drive/1mzpEGHmbe8_bnBkW63w8cQjkoKChMdthP-)
-
 ## ✅ Result
 
 The regression analysis successfully identifies important factors influencing vehicle CO₂ emissions and provides a machine-learning approach for predicting CO₂ emissions.
